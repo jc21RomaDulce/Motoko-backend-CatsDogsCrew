@@ -1,10 +1,12 @@
 About 
+
 Es una Dapp que permitirá ser un punto de encuento entre organizaciones, empresas amigas que apoyan o se identifican bajo el concepto Friendly. Ademas permitirá impulsar 4 enfoques de apoyo:
 
 SOS Real Time:Espacio para apoyar en tiempo real situaciones de peligro inminente.
 SOS Health: Espacio para apoyar la salud de gatos y perros, puede implicar donaciones de medicamentos, tratacientos u otros.
 SOS Food. Especio para apoyar sobre comida para gatos y perros puede ser en especie u otros.
 SOS Donation: Especio para donaciones en token.
+
 Setup
 Instalar en el sistema operativo donde se desarrollara el proyecto las siguientes dependencias:
 
